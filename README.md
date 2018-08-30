@@ -1,5 +1,5 @@
 # I2CTest
-I have created this tool to scan all addresses on and i2c port, similart to i2cdetect you can run on raspberry pi.
+I have created this tool to scan all addresses on and i2c port, similar to i2cdetect you can run on raspberry pi.
 
 ## Info
 It seems like there is no simple way to scan through i2c addresses on device PICO-PI-IMX7. This program allows you to do it, simply run the program and observe Logcat.
